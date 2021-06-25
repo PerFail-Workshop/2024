@@ -7,7 +7,7 @@ Important Dates
 - Papers submission deadline: TBD
 - Author notification due: TBD
 - Camera ready deadline: TBD
-- Author registration deadline: See PERCOM 2021 website
+- Author registration deadline: See [PERCOM 2022](http://percom.org) website
 - Workshop date: TBD
 
 ## Submission Guidelines
