@@ -14,7 +14,7 @@ Important Dates
 
 Papers should contain research and scholarly work describing original, previously unpublished work, which is not currently under review by another workshop, conference, or journal. Submissions must be made via EDAS.
 
-Regular papers should present novel perspectives within the scope of one of the two tracks of the workshop. Papers must be in PDF format (6 pages maximum). Papers in excess of page limits will not be considered for review or publication. PerIoT is single-blind. All papers must be typeset in double-column IEEE format using 10pt fonts on US letter paper, with all fonts embedded. The IEEE LaTeX and Microsoft Word templates, as well as related information, can be found at the IEEE Computer Society website (available here: https://www.ieee.org/conferences/publishing/templates.html)
+Regular papers should present novel perspectives within the scope of one of the two tracks of the workshop. Papers must be in PDF format (6 pages maximum). Papers in excess of page limits will not be considered for review or publication. PerIoT is single-blind. All papers must be typeset in double-column IEEE format using 10pt fonts on US letter paper, with all fonts embedded. The IEEE LaTeX and Microsoft Word templates, as well as related information, can be found at the IEEE Computer Society website (available here: [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html))
 
 PerFail will be held in conjunction with IEEE PERCOM 2022. All accepted papers will be included in the PERCOM proceedings and published by the IEEE. Workshop papers will be included and indexed in the IEEE digital libraries (Xplore).
 
