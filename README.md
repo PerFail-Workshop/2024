@@ -20,3 +20,26 @@ PerFail will be held in conjunction with IEEE PERCOM 2022. All accepted papers w
 
 Submission link: TBD
 
+## Registration
+
+Each accepted workshop paper requires a full PerCom registration (no registration is available for workshops only); otherwise, the paper will be withdrawn from publication. The authors of all accepted papers must guarantee that their paper will be presented at the workshop. Papers not presented at the workshop will be considered as a "no-show" and it will not be included in the proceedings.
+
+## Organizers
+
+### [Ella Peltonen](https://ellapeltonen.wordpress.com/)
+University of Oulu, Finland
+
+[Twitter](https://twitter.com/Ella_Peltonen)
+
+### [Nitinder Mohan](https://www.nitindermohan.com/)
+Technical University Munich (TUM), Germany
+
+[Twitter](https://twitter.com/nitinder_mohan)
+
+### [Peter Zdankin](https://vs.uni-due.de/person/zdankin/)
+University of Duisburg-Essen, Germany
+
+[Twitter](https://twitter.com/PZdankin)
+
+
+
