@@ -502,7 +502,7 @@ button:focus,
 
 
 .team .thumbnail h3 small {
-    font-size: 14px;
+    font-size: 13px;
     color: #888;
     display: block;
     font-weight: normal;
@@ -526,8 +526,14 @@ button:focus,
 }
 
 .team .social-links li a:hover {
-    color: #333;
+    color: #38A1F3;
 }
+
+/*
+.team .social-links li a fa.fa-twitter:hover {
+    color: #38A1F3;
+}
+*/
 
 /* --------------------------
  * Agenda
