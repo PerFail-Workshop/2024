@@ -772,3 +772,8 @@ button:focus,
     text-align: center;
     top: 65%;
 }
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
