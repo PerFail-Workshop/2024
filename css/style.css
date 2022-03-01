@@ -36,6 +36,9 @@ Author: uiCookies.com
 # Mid grey (sub header) #666666
 # -------------------------------------------------------------------*/
 
+@import url("font-awesome.min.css");
+@import url("fontawesome/css/all.css");
+
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 19px;
@@ -402,6 +405,12 @@ button:focus,
     font-size: 22px;
     padding-top: 40px;
     margin-bottom: 40px;
+}
+
+.jumbotron .content .flyer {
+    font-size: 22px;
+    padding-top: 80px;
+    margin-bottom: 20px;
 }
 
 .jumbotron .btn {
@@ -776,4 +785,69 @@ button:focus,
 .col-centered{
     float: none;
     margin: 0 auto;
+}
+
+hr {
+    border: none;
+    border-top: 5px double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 7px;
+    /* padding-bottom: 2em; */
+    /* padding-top: 2em; */
+}
+
+hr:after {
+    background: #fff;
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+/* pubs CSS */
+
+.pubs_img {
+    border-style: solid !important;
+    border-width: 1px !important;
+    display: block;
+    width: 100%;
+}
+
+.paper-title {
+    vertical-align: top; 
+    padding-left: 3px; 
+    padding-top: 1em !important;
+}
+
+.pubs_title {
+    /* font-family: 'CMUSansSerif'; */
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.pubs_title_a {
+    text-decoration: none;
+    border: none;
+    /* font-family: 'CMUSansSerif'; */
+    font-size: 16pt;
+}
+
+.pubs_content {
+    /* font-family: 'CMUSansSerif'; */
+    font-size: 16pt;
+}
+
+.image-holder {
+    float: left;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.pub-text {
+    padding-top: 2em;
+}
+
+.abstract {
+    padding-top: 0.5em;
 }
