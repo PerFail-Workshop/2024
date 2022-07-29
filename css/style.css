@@ -99,7 +99,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color: #7dff93;
+    color: #52c765;
     text-decoration: none;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -286,7 +286,7 @@ button:focus,
 
 .main-menu .nav li a:hover,
 .main-menu .nav li.active a {
-    color: #7d93ff;
+    color: #39bb4f;
     background: transparent;
 }
 
