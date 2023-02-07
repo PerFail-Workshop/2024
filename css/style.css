@@ -36,6 +36,14 @@ Author: uiCookies.com
 # Mid grey (sub header) #666666
 # -------------------------------------------------------------------*/
 
+:root {
+    --accent-light-color: #0ae331;
+    --accent-color: #39bb4f;
+    --accent-dark-color: #3e974d;
+    --accent-really-dark-color: #15471c; 
+  }
+  
+
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 19px;
@@ -57,7 +65,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 15px;
-    color: #15471c;
+    color: var(--accent-really-dark-color);
 }
 
 h1 {
@@ -99,7 +107,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color: #0ae331;
+    color: var(--accent-light-color);
     text-decoration: none;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -154,21 +162,21 @@ ul {
 
 /*btn-primary*/
 .btn-primary {
-    background-color: #7d93ff;
-    border-color: #7d93ff;
+    background-color: var(--accent-dark-color);
+    border-color: var(--accent-dark-color);
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active:focus {
     background: transparent;
-    color: #7d93ff;
-    border-color: #7d93ff;
+    color: var(--accent-dark-color);
+    border-color: var(--accent-dark-color);
 }
 
 /*btn-default*/
 .btn-default {
-    color: #ffffff;
+    color: #ffffff; 
     background-color: transparent;
     border-color: #ffffff;
 }
@@ -177,8 +185,8 @@ ul {
 .btn-default:focus,
 .btn-default:active:focus {
     background-color: transparent;
-    color: #7d93ff;
-    border-color: #7d93ff;
+    color: var(--accent-dark-color);
+    border-color: var(--accent-dark-color);
 }
 
 button:focus,
@@ -286,7 +294,7 @@ button:focus,
 
 .main-menu .nav li a:hover,
 .main-menu .nav li.active a {
-    color: #39bb4f;
+    color: var(--accent-color);
     background: transparent;
 }
 
@@ -307,7 +315,7 @@ button:focus,
 
     .main-menu .nav li a {
         padding: 5px 0;
-        color: #0e1555;
+        color: var(--accent-really-dark-color);
     }
 
     .navbar-collapse {
@@ -333,7 +341,7 @@ button:focus,
 }
 
 .sticky-nav .nav li a {
-    color: #0e1555;
+    color: var(--accent-really-dark-color);
 }
 
 .sticky-nav .navbar-toggle .icon-bar {
@@ -467,7 +475,7 @@ button:focus,
 }
 
 .about-event address strong {
-    color: #353e55;
+    color: var(--accent-really-dark-color);
 }
 
 /* ----------------------------------------------
@@ -717,7 +725,7 @@ button:focus,
 .form-control:focus,
 .form-control:active {
     box-shadow: none;
-    border-color: #7d93ff;
+    border-color: var(--accent-light-color) ;
 }
 
 
