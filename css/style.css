@@ -37,10 +37,10 @@ Author: uiCookies.com
 # -------------------------------------------------------------------*/
 
 :root {
-    --accent-light-color: #0ae331;
-    --accent-color: #39bb4f;
-    --accent-dark-color: #3e974d;
-    --accent-really-dark-color: #15471c; 
+    --accent-light-color: #e3270a;
+    --accent-color: #bb3939;
+    --accent-dark-color: #973e3e;
+    --accent-really-dark-color: #471515; 
   }
   
 
@@ -48,7 +48,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 19px;
     line-height: 1.7em;
-    color: #36483c; 
+    color: #483636; 
     font-weight: 100;
     background: #ffffff;
     border: 10px solid #fff;
@@ -360,7 +360,7 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-    background: url("../img/cover-webpage.png");
+    background: url("../img/cover-webpage.jpg");
     background-size: cover;
     background-size: cover;
     padding: 0;
